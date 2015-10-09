@@ -1,6 +1,7 @@
 name: kcs
 favicon: null
 layout_spectrum: 1
+title: kcs
 cta:
   domain: null
   bucket: null
